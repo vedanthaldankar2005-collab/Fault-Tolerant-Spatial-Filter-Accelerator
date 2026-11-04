@@ -1,0 +1,20 @@
+========================================
+COMPLETE ACCELERATOR SIMULATION RESULT
+========================================
+
+TOTAL OUTPUTS    = 36
+EXPECTED OUTPUTS = 36
+NUMERICAL ERRORS = 0
+DONE             = 1
+ERROR            = 0
+
+COMPLETE ACCELERATOR TEST: PASS
+
+========================================
+
+RESET VERIFICATION:
+Reset state verified successfully.
+BUSY = 0
+DONE = 0
+ERROR = 0
+RESET TEST: PASS

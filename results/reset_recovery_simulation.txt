@@ -1,0 +1,20 @@
+========================================
+RESET RECOVERY SIMULATION RESULT
+========================================
+
+TEST:
+Accelerator was reset after completing
+an 8x8 image processing operation.
+
+OUTPUTS BEFORE RESET = 36
+EXPECTED OUTPUTS     = 36
+
+BUSY AFTER RESET     = 0
+DONE AFTER RESET     = 0
+ERROR AFTER RESET    = 0
+
+NUMERICAL ERRORS     = 0
+
+RESET RECOVERY TEST: PASS
+
+========================================

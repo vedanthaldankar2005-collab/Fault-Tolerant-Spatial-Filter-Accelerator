@@ -1,0 +1,16 @@
+========================================
+TMR FAULT-INJECTION SIMULATION RESULT
+========================================
+
+FAULT INJECTION:
+Replica 1 output was inverted at bit 0.
+
+TOTAL OUTPUTS    = 36
+EXPECTED OUTPUTS = 36
+NUMERICAL ERRORS = 0
+DONE             = 1
+ERROR            = 1
+
+COMPLETE ACCELERATOR TEST: PASS
+
+========================================

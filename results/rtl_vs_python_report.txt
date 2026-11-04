@@ -1,0 +1,12 @@
+RTL vs Python Golden Model Report
+=================================
+
+Python output count: 15876
+RTL output count: 15876
+Values compared: 15876
+Mismatches: 0
+Python range: -575 to 521
+RTL range: -575 to 521
+
+ALL OUTPUTS MATCH
+RTL vs Python: PASS

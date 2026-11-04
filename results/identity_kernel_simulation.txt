@@ -1,0 +1,21 @@
+========================================
+IDENTITY KERNEL SIMULATION RESULT
+========================================
+
+KERNEL:
+0 0 0
+0 1 0
+0 0 0
+
+AXI KERNEL READBACK:
+00000000
+
+TOTAL OUTPUTS    = 36
+EXPECTED OUTPUTS = 36
+NUMERICAL ERRORS = 0
+DONE             = 1
+ERROR            = 0
+
+IDENTITY KERNEL TEST: PASS
+
+========================================

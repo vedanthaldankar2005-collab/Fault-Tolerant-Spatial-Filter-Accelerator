@@ -1,0 +1,16 @@
+========================================
+TMR REPLICA 0 FAULT-INJECTION RESULT
+========================================
+
+FAULT INJECTION:
+Replica 0 output was inverted at bit 0.
+
+TOTAL OUTPUTS    = 36
+EXPECTED OUTPUTS = 36
+NUMERICAL ERRORS = 0
+DONE             = 1
+ERROR            = 1
+
+TMR REPLICA 0 FAULT TEST: PASS
+
+========================================
